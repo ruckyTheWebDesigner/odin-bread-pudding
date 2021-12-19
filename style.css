@@ -1,0 +1,28 @@
+body {
+  margin: 20px auto;
+  background: rgb(2, 0, 36);
+  background: linear-gradient(
+    90deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(121, 55, 9, 1) 56%,
+    rgba(0, 212, 255, 1) 100%
+  );
+  color: white;
+}
+
+img {
+  width: 60%;
+  margin: 0 20%;
+  border-radius: 20px;
+}
+ul {
+  margin: 0 20%;
+}
+
+ol {
+  margin: 0 20%;
+}
+h1,
+p {
+  text-align: center;
+}

@@ -1,1 +1,2 @@
-# odin-bread-pudding
+# odin-receipes
+A project showcasing Bread Pudding receipe
